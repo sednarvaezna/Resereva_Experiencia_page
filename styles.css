@@ -19,6 +19,7 @@ th, td {
 th {
     background-color: lightgray;
 }
-.navbar {
-    background-color: red;
+
+#main-footer {
+    background-color: #DA9500;
 }
