@@ -23,3 +23,10 @@ th {
 #main-footer {
     background-color: #DA9500;
 }
+
+.carousel-control {
+position: absolute;
+top: 50%; /* pushes the icon in the middle of the height */
+z-index: 5;
+display: inline-block;
+}
